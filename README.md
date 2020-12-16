@@ -1,2 +1,2 @@
-# bgdebugger
+# BgDebugger
 My Debugger Test Project
